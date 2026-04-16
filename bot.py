@@ -2,7 +2,7 @@ from telegram import Update, InputMediaPhoto, InputMediaVideo
 from telegram.ext import ApplicationBuilder, MessageHandler, ContextTypes, filters
 import asyncio
 
-TOKEN = "YOUR_BOT_TOKEN_HERE"
+TOKEN = "8571783970:AAH-yEE4Mc6sZMrOcNi-snEIcDx3uKmlFwY"
 
 # ID nhóm nguồn
 SOURCE_CHAT_ID = -1002789303223
